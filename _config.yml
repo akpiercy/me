@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Adeline K. Piercy"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Adeline K. Piercy"
 description              : &description "personal description"
 url                      : https://akpiercy.github.io
 baseurl                  : "/me"
