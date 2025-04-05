@@ -15,7 +15,7 @@ When not on campus, Adeline is scheming the demise of their loyal D&D players, o
 
 📅 Upcoming Publications & Events
 =========
-**CGSA 2025:** *Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic* (with PS Berge)
+**CGSA 2025:** *Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic* (co-authored with Dr. PS Berge)
 
 
 ✨ Some Favourite Recommendations
