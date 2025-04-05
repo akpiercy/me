@@ -23,11 +23,11 @@ repository               : "me/akpiercy.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Adeline K. Piercy, BSc, BCS, MA"
+  name             : "Adeline K. Piercy"
   pronouns         : "she/they"  
-  bio              : "Hi! I'm a writer, scholar, and worldbuilder working at the intersection of queer games studies, feminist media theory, and storytelling."
+  bio              : "UAlberta | Digital Humanities MA      MacEwan | Sessional Instructor"
   location         : "Edmonton, AB"
-  employer         : "University of Alberta"
+  employer         : # "University of Alberta"
   uri              : # URL
   email            : "akpiercy@ualberta.ca"
 
