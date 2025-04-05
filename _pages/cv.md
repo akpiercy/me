@@ -90,7 +90,7 @@ Winner, Alexander Rutherford Scholarship ($1,000)
   
 Courses Taught
 ======
-MacEwan University 
+**MacEwan University**
 * Advanced Business Writing [Online]
   * Advanced strategic writing for professional contexts including proposals, reports, and professional correspondence.
 
