@@ -13,21 +13,21 @@ Adeline (she/they) is a Digital Humanities graduate student at the University of
 When not on campus, Adeline is scheming the demise of her loyal D&D players, overthinking her farm layout on Stardew Valley, buying books faster than she can read them, or trying to convince thier cat that it's not meal time *yet*. 
 
 
-Upcoming Publications & Events
+📅 Upcoming Publications & Events
 =========
 **CGSA 2025:** *Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic* (with PS Berge)
 
 
-Some Favourite Recommendations
+✨ Some Favourite Recommendations
 =======
 
-Academic Texts
+📚 Academic Texts
 -----
 *Video Games Have Always Been Queer* by Bo Ruberg
 
 *Data Feminism* by Catherine D'Ignazio and Lauren Klein
 
-Games
+🎮 Games
 -----
 *Stardew Valley*
 
@@ -37,7 +37,7 @@ Games
 
 *Frostpunk*
 
-Fiction
+📖 Fiction
 -----
 *The Poppy War* Trilogy by R.F. Kuang (or literally anything by her, tbh)
 
