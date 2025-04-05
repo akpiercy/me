@@ -13,27 +13,27 @@ Writer, communications instructor, and master’s student in Digital Humanities 
 
 Education
 ======
-* MA in Digital Humanities, University of Alberta, 2027 (Expected)
-  * Thesis: “Patriarchy in Pastels: Cozy Game Culture & Feminist Gameplay (In progress).”
-  * Advisor: Dr. PS Berge
+MA in Digital Humanities, University of Alberta, 2027 (Expected)
+* Thesis: “Patriarchy in Pastels: Cozy Game Culture & Feminist Gameplay (In progress).”
+* Advisor: Dr. PS Berge
 
-* BCS in Professional Communications, MacEwan University, 2021
+BCS in Professional Communications, MacEwan University, 2021
 
-* BSc in Biological Sciences, University of Alberta, 2016
+BSc in Biological Sciences, University of Alberta, 2016
 
 
 Teaching Appointments
 ======
-* MacEwan University
-  * Sessional Instructor, 2023 - Present
-  * Teaching undergraduate courses in the Professional Communications department
+MacEwan University
+* Sessional Instructor, 2023 - Present
+* Teaching undergraduate courses in the Professional Communications department
 
-* University of Alberta
-  * Research Assistant, Microcredential in Game Design, Jan 2024 – Mar 2025
-    * Developing, implementing, and editing lessons for an online game design course.
+University of Alberta
+* Research Assistant, Microcredential in Game Design, Jan 2024 – Mar 2025
+  * Developing, implementing, and editing lessons for an online game design course.
 
-  * Teaching Assistant, Media Theory, Winter 2025
-    * A theory-in-practice course, assisting with in-class workshops and student correspondence. 
+* Teaching Assistant, Media Theory, Winter 2025
+  * A theory-in-practice course, assisting with in-class workshops and student correspondence. 
   
 Peer-Reviewed Publications
 ======
@@ -44,49 +44,49 @@ Other Publications
 ======
 Creative Work
 ------
-Piercy, Adeline K. (2021). Exaltation [Poetry collection]. Armistice Press.
+* Piercy, Adeline K. (2021). Exaltation [Poetry collection]. Armistice Press.
 
-Piercy, Adeline K. (2021). “Heresy” [Short story]. The Bolo Tie Collective Anthology V.
+* Piercy, Adeline K. (2021). “Heresy” [Short story]. The Bolo Tie Collective Anthology V.
 
 Essays and Popular Press Articles
 ------
-Piercy, Adeline K. (2021). “Talk Feminism to Me, Daddy!” She/They/Us Magazine.
+* Piercy, Adeline K. (2021). “Talk Feminism to Me, Daddy!” She/They/Us Magazine.
 
-Piercy, Adeline K. (2021). “A Feminist Changes a Tire.” She/They/Us Magazine.
+* Piercy, Adeline K. (2021). “A Feminist Changes a Tire.” She/They/Us Magazine.
 
-Piercy, Adeline K. (2021). “The More, the Merrier.” She/They/Us Magazine.
+* Piercy, Adeline K. (2021). “The More, the Merrier.” She/They/Us Magazine.
 
-Piercy, Adeline K. (2016). “Internal Censorship in Writing.” WestWord Magazine.
+* Piercy, Adeline K. (2016). “Internal Censorship in Writing.” WestWord Magazine.
   
 Fellowships and Awards
 ======
 2025
 -----
-Winner, GPS Graduate Student Elevation Award ($1,450)
+* Winner, GPS Graduate Student Elevation Award ($1,450)
 
-Winner, Women in Technical and Applied Arts Scholarship ($2,500)
+* Winner, Women in Technical and Applied Arts Scholarship ($2,500)
 
 2024
 ------
-Winner, Alberta Graduate Excellence Scholarship (AGES) ($12,000)
+* Winner, Alberta Graduate Excellence Scholarship (AGES) ($12,000)
 
 2023
 -------
-Winner, Digital Humanities Recruitment Scholarship ($5,000)
+* Winner, Digital Humanities Recruitment Scholarship ($5,000)
 
-Nominee, Graduate Entrance Scholarship
+* Nominee, Graduate Entrance Scholarship
 
 2021
 ------
-Recipient, Dean’s Medal, MacEwan
+* Recipient, Dean’s Medal, MacEwan
 
 2020
 ------
-Finalist, Emerge Media Video Awards
+* Finalist, Emerge Media Video Awards
 
 2012
 -------
-Winner, Alexander Rutherford Scholarship ($1,000)
+* Winner, Alexander Rutherford Scholarship ($1,000)
   
 Courses Taught
 ======
