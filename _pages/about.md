@@ -25,22 +25,25 @@ Some Favourite Recommendations
 Academic Texts
 -----
 *Video Games Have Always Been Queer* by Bo Ruberg
+
 *Data Feminism* by Catherine D'Ignazio and Lauren Klein
 
 Games
 -----
 *Stardew Valley*
+
 *Cult of the Lamb*
+
 *Baldur's Gate 3*
+
 *Frostpunk*
 
 Fiction
 -----
 *The Poppy War* Trilogy by R.F. Kuang (or literally anything by her, tbh)
-*The Priory of the Orange Tree* and *A Day of Fallen Night* by Samantha Shannon
-*Braiding Sweetgrass* by Robin Wall Kimmerer
-*The Secret Life of Addie LaRue* by V.E. Schwab
 
-Collaborate
-------
-If you’re looking for a guest speaker, writer, or collaborator, I’d love to hear from you!
+*The Priory of the Orange Tree* and *A Day of Fallen Night* by Samantha Shannon
+
+*Braiding Sweetgrass* by Robin Wall Kimmerer
+
+*The Secret Life of Addie LaRue* by V.E. Schwab
