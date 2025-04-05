@@ -17,32 +17,33 @@ When not on campus, Adeline is scheming the demise of their loyal D&D players, o
 =========
 **CGSA 2025:** *Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic* (co-authored with Dr. PS Berge)
 
+-------
 
-✨ Some Favourite Recommendations
+Some Favourite Recommendations
 =======
 
 📚 Academic Texts
 -----
-*Video Games Have Always Been Queer* by Bo Ruberg
+* *Video Games Have Always Been Queer* by Bo Ruberg
 
-*Data Feminism* by Catherine D'Ignazio and Lauren Klein
+* *Data Feminism* by Catherine D'Ignazio and Lauren Klein
 
 🎮 Games
 -----
-*Stardew Valley*
+* *Stardew Valley*
 
-*Cult of the Lamb*
+* *Cult of the Lamb*
 
-*Baldur's Gate 3*
+* *Baldur's Gate 3*
 
-*Frostpunk*
+* *Frostpunk*
 
 📖 Fiction
 -----
-*The Poppy War* Trilogy by R.F. Kuang (or literally anything by her, tbh)
+* *The Poppy War* Trilogy by R.F. Kuang (or literally anything by her, tbh)
 
-*The Priory of the Orange Tree* and *A Day of Fallen Night* by Samantha Shannon
+* *The Priory of the Orange Tree* and *A Day of Fallen Night* by Samantha Shannon
 
-*Braiding Sweetgrass* by Robin Wall Kimmerer
+* *Braiding Sweetgrass* by Robin Wall Kimmerer
 
-*The Secret Life of Addie LaRue* by V.E. Schwab
+* *The Secret Life of Addie LaRue* by V.E. Schwab
