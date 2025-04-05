@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Writer, communications instructor, and master’s student in Digital Humanities at the University of Alberta, researching feminist gameplay, queer play, and digital culture.
+
 Education
 ======
 * MA in Digital Humanities, University of Alberta, 2027 (Expected)
