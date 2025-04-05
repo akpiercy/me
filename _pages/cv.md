@@ -88,20 +88,20 @@ Winner, Alexander Rutherford Scholarship ($1,000)
   
 Courses Taught
 ======
-* MacEwan University 
-  * Advanced Business Writing [Online]
-    * Advanced strategic writing for professional contexts including proposals, reports, and professional correspondence.
+MacEwan University 
+* Advanced Business Writing [Online]
+  * Advanced strategic writing for professional contexts including proposals, reports, and professional correspondence.
 
-  * Professional Communications
-    * Practical professional communications practices including audience and medium analysis, conflict resolution, and strategic communication.
+* Professional Communications
+  * Practical professional communications practices including audience and medium analysis, conflict resolution, and strategic communication.
 
-  * Grammar & Composition Foundations
-    * A foundational course on grammar and writing. Students discuss the effects of English in a colonized country and intersectional effects as a result, including feminist critiques of written and spoken language.  
-  * Interpersonal Communications
-    * Theory and practical application of interpersonal communication techniques within online, personal, group, and professional contexts. 
+* Grammar & Composition Foundations
+  * A foundational course on grammar and writing. Students discuss the effects of English in a colonized country and intersectional effects as a result, including feminist critiques of written and spoken language.  
+* Interpersonal Communications
+  * Theory and practical application of interpersonal communication techniques within online, personal, group, and professional contexts. 
 
-  * Writing Fundamentals
-    * Foundational writing and grammar for the public relations program. Students discuss the impacts of English supremacy and collaborate on inclusive methods of communication. 
+* Writing Fundamentals
+  * Foundational writing and grammar for the public relations program. Students discuss the impacts of English supremacy and collaborate on inclusive methods of communication. 
 
 Presentations
 ======
@@ -140,19 +140,41 @@ Service to the Field
 
 Relevant Professional Experience
 ======
-Dig Marketing	
-* Digital Content & Communications Manager, 2021-2023 
-  •	Managed a small team of writers, including interviewing, hiring, and onboarding employees
-  •	Developed content plans for over 20 clients, following SEO trends reports, and general industry trends 
-  •	Created and developed a Communications position and department 
-  •	Created and developed Public Relations tactics 
-  •	Implemented and trained internal systems for efficient production and productive internal communication 
-  •	Developed internal documentation for processes, style guides, and tactics 
+**Dig Marketing**
+* Digital Content & Communications Manager, 2021-2023
+  * Managed a small team of writers, including interviewing, hiring, and onboarding employees
+  * Developed content plans for over 20 clients, following SEO trends reports, and general industry trends
+  * Created and developed a Communications position and department
+  * Created and developed Public Relations tactics
+  * Implemented and trained internal systems for efficient production and productive internal communication
+  * Developed internal documentation for processes, style guides, and tactics 
 
-*She/They/Us Magazine*
+***She/They/Us Magazine***
 * Section Editor, Lead Copy Editor, 2021
-  •	Collaboratively developed an intersectional feminist topic list 
-  •	Wrote and compiled four works for the magazine, including a reading list, a feature article, and two columns
-  •	Content and copy edited the majority of the 64-page magazine 
-  •	Developed the copy editing style guide for the project
-  •	Researched market trends and competition
+  * Collaboratively developed an intersectional feminist topic list
+  * Wrote and compiled four works for the magazine, including a reading list, a feature article, and two columns
+  * Content and copy edited the majority of the 64-page magazine
+  * Developed the copy editing style guide for the project
+  * Researched market trends and competition
+
+**Writers’ Guild of Alberta**
+* Summer Programs Assistant, 2013, 2015
+  * Assisted with annual conference planning, including graphic design, communications, operations, and venue booking
+  * Developed an archive for the WGA's shortlisted books
+  * Designed catalogues for Read Alberta Books promotion
+  * Planned Alberta Culture Days events with rural libraries 
+
+
+Technical Skills
+======
+**Software Proficiencies:** Microsoft Office, Google Suite, Notion, Zotero, WordPress, Adobe Suite (Premier, Audition, Spark), Asana, Monday.com, Ren’Py, GitHub
+
+**Languages:** Python, MarkDown, MySQL
+
+
+Teaching Recommendations
+======
+Catherine Dyer, MEd. & Luiza Guimaraes
+* Class Taught: BCSC 216, Professional Communications on March 23rd, 2023
+* Topic: Evaluating successful communication
+
