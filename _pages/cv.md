@@ -61,7 +61,7 @@ Essays and Popular Press Articles
 Fellowships and Awards
 ======
 2025
------
+------
 Winner, GPS Graduate Student Elevation Award ($1,450)
 
 Winner, Women in Technical and Applied Arts Scholarship ($2,500)
@@ -71,7 +71,7 @@ Winner, Women in Technical and Applied Arts Scholarship ($2,500)
 Winner, Alberta Graduate Excellence Scholarship (AGES) ($12,000)
 
 2023
--------
+------
 Winner, Digital Humanities Recruitment Scholarship ($5,000)
 
 Nominee, Graduate Entrance Scholarship
@@ -85,7 +85,7 @@ Recipient, Dean’s Medal, MacEwan
 Finalist, Emerge Media Video Awards
 
 2012
--------
+------
 Winner, Alexander Rutherford Scholarship ($1,000)
   
 Courses Taught
