@@ -1,6 +1,6 @@
 ---
 title: "A Feast for Cats"
-excerpt: "The premise of this game is simple: you are a Cat and you are starving. <br/><img src='/images/A Feast for Cats Cover Image.png' width='300'>"
+excerpt: "The premise of this game is simple: you are a Cat and you are starving. <br/><img src='/images/A Feast for Cats Cover Image.png' width='500'>"
 collection: portfolio
 ---
 
