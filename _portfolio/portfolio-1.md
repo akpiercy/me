@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Feast for Cats"
+excerpt: "A Feast for Cats is a fast-paced tabletop roleplaying game for 3+ players. It’s perfect for cat lovers, chaos gremlins, and players who believe teamwork is optional when food is on the line. <br/><img src='/images/A Feast for Cats Cover Image.png'>"
 collection: portfolio
 ---
 
