@@ -43,7 +43,7 @@ Peer-Reviewed Publications
 Other Publications
 ======
 Creative Work
-------
+-------
 * Piercy, Adeline K. (2021). Exaltation [Poetry collection]. Armistice Press.
 
 * Piercy, Adeline K. (2021). “Heresy” [Short story]. The Bolo Tie Collective Anthology V.
