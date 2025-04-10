@@ -42,6 +42,7 @@ Peer-Reviewed Publications
 
 Other Publications
 ======
+
 Creative Work
 -------
 * Piercy, Adeline K. (2021). Exaltation [Poetry collection]. Armistice Press.
@@ -60,6 +61,7 @@ Essays and Popular Press Articles
   
 Fellowships and Awards
 ======
+
 2025
 ------
 Winner, GPS Graduate Student Elevation Award ($1,450)
