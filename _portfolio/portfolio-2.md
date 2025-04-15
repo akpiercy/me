@@ -1,7 +1,7 @@
 ---
 title: "Memory Lane"
-excerpt: "'It used to be my home, but it's not anymore.' <br/><img src='/images/Memory Lane.png' width = '400'>"
+excerpt: "'I usually avoid this place. But not this time.' <br/><img src='/images/Memory Lane Thumbnail.png' width = '400'>"
 collection: portfolio
 ---
 
-Coming Soon!
+Memory Lane is a short 16-bit narrative game about returning to a place that was once home but is home no longer. [You can play Memory Lane on my itch.io page!](https://adelinekpiercy.itch.io/memory-lane)
