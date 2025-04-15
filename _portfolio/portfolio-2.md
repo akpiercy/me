@@ -1,6 +1,6 @@
 ---
 title: "Memory Lane"
-excerpt: "I usually avoid this place. But not this time. <br/><img src='/images/Memory Lane Thumbnail.png' width = '400'>"
+excerpt: "I usually avoid this place. But not this time. <br/><img src='/images/Memory Lane Thumbnail.png'>"
 collection: portfolio
 ---
 
