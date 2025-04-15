@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Hello! I am a Digital Humanities graduate student at the University of Alberta and a sessional instructor at MacEwan University. As a storyteller, I explores narratives across various mediums, including poetry, fiction, interactive stories, and games. My work focuses on queer and feminist issues, creative work explores trauma, neurodivergence, and self-exploration.
+Hello! I am a Digital Humanities graduate student at the University of Alberta and a sessional instructor at MacEwan University. As a storyteller, I explore narratives across various mediums, including poetry, fiction, interactive stories, and games. My work focuses on queer and feminist issues, and explores trauma, neurodivergence, and self-exploration.
 
-When not on campus, I am scheming the demise of their loyal D&D players, overthinking my farm layout on *Stardew Valley*, buying books faster than I can read them, or trying to convince my cat that it's not meal time *yet*. 
+When not on campus, I am scheming the demise of my loyal D&D players, overthinking my farm layout on *Stardew Valley*, buying books faster than I can read them, or trying to convince my cat that it's not meal time *yet*. 
 
 
 📅 Upcoming Publications & Events
