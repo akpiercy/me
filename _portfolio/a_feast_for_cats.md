@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 A Feast for Cats is a fast-paced tabletop roleplaying game for 3+ players. It’s perfect for cat lovers, chaos gremlins, and players who believe teamwork is optional when food is on the line.
-[You can access A Feast for Cats on itch!](https://adelinekpiercy.itch.io/a-feast-for-cats)
+
+<iframe frameborder="0" src="https://itch.io/embed/3463734" width="552" height="167"><a href="https://adelinekpiercy.itch.io/a-feast-for-cats">A Feast for Cats by adelinekpiercy</a></iframe>
