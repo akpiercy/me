@@ -6,11 +6,9 @@ collection: portfolio
 
 Memory Lane is a short single-player 16-bit narrative game about returning to a place that was once home but is not anymore. 
 
-<div style="text-align:center;">
-    <iframe 
-        src="https://adelinekpiercy.itch.io/memory-lane" 
-        width="800" 
-        height="600" 
-        frameborder="0">
-    </iframe>
-</div>
+<iframe 
+    src="https://adelinekpiercy.itch.io/memory-lane" 
+    width="800" 
+    height="600" 
+    frameborder="0">
+</iframe>
