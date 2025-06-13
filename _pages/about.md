@@ -15,7 +15,7 @@ When not on campus, I am scheming the demise of my loyal D&D players, overthinki
 
 📅 Upcoming Publications & Events
 =========
-**CGSA 2025:** *Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic* (co-authored with Dr. PS Berge)
+**More Announcements Coming Soon!**
 
 -------
 
