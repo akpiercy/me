@@ -43,15 +43,27 @@ $sidebar-screen-min-width   : 1024px;
     --global-thead-color                : #{$old-rose};
 }
 
-/* Only apply these custom colors in LIGHT mode */
+/* Light mode colors */
 @media (prefers-color-scheme: light) {
-  /* Body text */
-  body, .page__content {
-    color: #14281D; /* forest green or whatever you want */
+  :root{
+    --global-text-color: #14281D;  /* body text */
+    --heading-color:     #C58882;  /* headings */
   }
+}
 
-  /* Headings */
-  h1, h2, h3, h4, h5, h6 {
-    color: #C58882; /* your rose accent */
+/* Dark mode colors */
+@media (prefers-color-scheme: dark) {
+  :root{
+    --global-text-color: #EDEDED;  /* body text for dark mode */
+    --heading-color:     #FFFFFF;  /* headings for dark mode */
   }
+}
+
+/* This is step 2 — use the variables you just defined */
+body, .page__content {
+  color: var(--global-text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
 }
