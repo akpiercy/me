@@ -6,7 +6,7 @@
 $green                      : #709176;
 $dark-green                 : #14281D;
 $mid-green                  : #023C40;
-$tangerine                  : #E88D67;
+$old-rose                  : #C58882;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -27,18 +27,18 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #{$mid-green};
+    --global-base-color                 : #{$old-rose};
     --global-bg-color                   : #F8F6F5;
     --global-border-color               : #{$mid-green};
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$dark-green};
     --global-fig-caption-color          : mix(#fff,  #{$dark-green}, 25%);
     --global-link-color                 : #023C40;
-    --global-link-color-hover           : #{$green};
+    --global-link-color-hover           : #{$old-rose};
     --global-link-color-visited         : #709176;  
     --global-masthead-link-color        : #{$mid-green};
     --global-masthead-link-color-hover  : mix(#000, #{$green}, 25%);    
     --global-text-color                 : #{$dark-green};
     --global-text-color-light           : #{$green};
-    --global-thead-color                : #{$tangerine};
+    --global-thead-color                : #{$old-rose};
 }
