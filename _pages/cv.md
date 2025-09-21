@@ -29,11 +29,17 @@ Teaching Appointments
 * Teaching undergraduate courses in the Professional Communications department
 
 **University of Alberta**
+* Research Assistant, CRYPT Lab, May 2025 - Present
+  * Editing videos for Playful Horizons Speaker Series and CRYPT Lab development.
+
 * Research Assistant, Microcredential in Game Design, Jan 2024 – Mar 2025
   * Developing, implementing, and editing lessons for an online game design course.
 
 * Teaching Assistant, Media Theory, Winter 2025
-  * A theory-in-practice course, assisting with in-class workshops and student correspondence. 
+  * A theory-in-practice course, assisting with in-class workshops and student correspondence.
+ 
+* Research Assistant, Bridging Divides, Jan 2024 – Apr 2024
+  * Heuristics evaluations of government immigration websites.
   
 Peer-Reviewed Publications
 ======
