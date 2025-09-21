@@ -113,9 +113,9 @@ Presentations
 
 * “Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic” with Dr. PS Berge, Canadian Game Studies Association Conference, 2025
 
-* Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 
+* [Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University.](/fiiles/22024-10-25 Guest Speaker for NFLC - Adeline Piercy.pdf)
 
-* Invited Panelist, “Peer Observation of Teaching Training Part 1,” Centre for Teaching and Learning, MacEwan University.
+* [Invited Panelist, “Peer Observation of Teaching Training Part 1,” Centre for Teaching and Learning, MacEwan University.](/files/2024-10-29 Guest Speaker for Peer Observation of Teaching Training - Adeline Piercy.pdf)
 
 
 Service to University
@@ -177,7 +177,8 @@ Technical Skills
 
 Teaching Recommendations
 ======
-Catherine Dyer, MEd. & Luiza Guimaraes
+[Catherine Dyer, MEd. & Luiza Guimaraes](/files/Adeline_Piercy_Peer_ Observation Report.pdf)
 * Class Taught: BCSC 216, Professional Communications on March 23rd, 2023
 * Topic: Evaluating successful communication
+
 
