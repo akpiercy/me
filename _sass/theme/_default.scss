@@ -5,7 +5,7 @@
 /* Color codes used for the theme */
 $green                      : #709176;
 $dark-green                 : #14281D;
-$light-green                : #023C40;
+$mid-green                  : #023C40;
 $old-rose                   : #C16E70;
 
 /* Color codes used for the site */
@@ -29,7 +29,7 @@ $sidebar-screen-min-width   : 1024px;
 :root {
     --global-base-color                 : #{$green};
     --global-bg-color                   : #F4EEEB;
-    --global-border-color               : #{$light-green};
+    --global-border-color               : #{$mid-green};
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$dark-green};
     --global-fig-caption-color          : mix(#fff,  #{$dark-green}, 25%);
@@ -38,7 +38,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
     --global-masthead-link-color        : #{$dark-green};
     --global-masthead-link-color-hover  : mix(#000, #{$green}, 25%);    
-    --global-text-color                 : #{$dark-green};
-    --global-text-color-light           : #{$light-green};
+    --global-text-color                 : #{$green};
+    --global-text-color-light           : #{$mid-green};
     --global-thead-color                : #{$old-rose};
 }
