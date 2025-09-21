@@ -52,3 +52,7 @@ body, .page__content {
 h1, h2, h3, h4, h5, h6 {
   color: #C58882; /* your rose accent */
 }
+
+h1:hover, h2:hover, h3:hover {
+  color: #a94d55; /* slightly darker rose */
+}
