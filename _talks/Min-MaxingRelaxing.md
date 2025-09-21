@@ -9,3 +9,5 @@ location: "Montreal, QC, Canada"
 ---
 
 [📑 View Slides (PDF)](/files/Min-Maxing Relaxing - AKPiercy & PBBerge.pdf)
+
+<embed src="/files/Min-Maxing Relaxing - AKPiercy & PBBerge.pdf" width="100%" height="600px" type="application/pdf">
