@@ -19,16 +19,13 @@ When not on campus, I am scheming the demise of my loyal D&D players, overthinki
 
 -------
 
-Some Favourite Recommendations
-=======
-
-📚 Academic Texts
+📚 Recommended Academic Texts
 -----
 * *Video Games Have Always Been Queer* by Bo Ruberg
 
 * *Data Feminism* by Catherine D'Ignazio and Lauren Klein
 
-🎮 Games
+🎮 Recommended Games
 -----
 * *Stardew Valley*
 
@@ -38,7 +35,7 @@ Some Favourite Recommendations
 
 * *Frostpunk*
 
-📖 Fiction
+📖 Recommended Reading
 -----
 * *The Poppy War* Trilogy by R.F. Kuang (or literally anything by her, tbh)
 
