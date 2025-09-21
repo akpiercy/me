@@ -35,7 +35,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-fig-caption-color          : mix(#fff,  #{$dark-green}, 25%);
     --global-link-color                 : #023C40;
     --global-link-color-hover           : #{$old-rose};
-    --global-link-color-visited         : #709176;  
+    --global-link-color-visited         : #{$old-rose};  
     --global-masthead-link-color        : #{$mid-green};
     --global-masthead-link-color-hover  : mix(#000, #{$green}, 25%);    
     --global-text-color                 : #{$dark-green};
