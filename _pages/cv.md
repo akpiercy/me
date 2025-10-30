@@ -70,6 +70,12 @@ Fellowships and Awards
 
 2025
 ------
+Nominee, Open Competition, University of Alberta
+
+Nominee, BMO Financial Group Graduate Scholarship
+
+Nominee, Ivy A Thomson and William A Thomson Graduate Scholarship
+
 Winner, GPS Graduate Student Elevation Award ($1,450)
 
 Winner, Women in Technical and Applied Arts Scholarship ($2,500)
@@ -99,6 +105,9 @@ Winner, Alexander Rutherford Scholarship ($1,000)
 Courses Taught
 ======
 **MacEwan University**
+* Stylistic and Structural Editing (Upcoming)
+  * Students examine the objectives and techniques of stylistic, structural, and developmental editing by working through large, complex projects.
+
 * Advanced Business Writing [Online]
   * Advanced strategic writing for professional contexts including proposals, reports, and professional correspondence.
 
@@ -128,6 +137,8 @@ Presentations
 
 Service to University
 ======
+* Co-President, Digital Humanities Student Association, University of Alberta, 2025 – Present
+
 * Individual Student Career Mentorship, MacEwan University, 2024 – Present
 
 * Organizer and Panelist, “Queering the Future: Entering the Workforce,” Pride Week with MacEwan University’s Center for Sexual and Gender Diversity, 2024
