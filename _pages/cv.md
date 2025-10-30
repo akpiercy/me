@@ -143,14 +143,13 @@ Service to University
 
 * Organizer and Panelist, “Queering the Future: Entering the Workforce,” Pride Week with MacEwan University’s Center for Sexual and Gender Diversity, 2024
 
-* Member at Large, Digital Humanities Student Association, University of Alberta, 2024 – Present
+* Member at Large, Digital Humanities Student Association, University of Alberta, 2024 – 2025
 
 * Volunteer, University of Alberta Open House, 2024
 
-* Team Facilitator, University of Alberta Orientation Program, 2014-2015
-
 * Website Manager, The Bolo Tie Collective, MacEwan University, 2020-2021
 
+* Team Facilitator, University of Alberta Orientation Program, 2014-2015
 
 
 Service to the Field
