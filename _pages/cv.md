@@ -199,4 +199,9 @@ Teaching Recommendations
 * Class Taught: BCSC 216, Professional Communications on March 23rd, 2023
 * Topic: Evaluating successful communication
 
+Dr. PB Berge
+* Class Taught: MST 350, Understanding Videogames on October 28th, 2025 [Guest Lecture]
+* Topic: Cozy game culture and feminist gameplay
+
+
 
