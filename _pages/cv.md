@@ -45,6 +45,15 @@ Peer-Reviewed Publications
 ======
 * Piercy, Adeline K. (Accepted for forthcoming publication). “Mending the Appropriation of Yoga Through Origin Acknowledgements.” *MUSe: The MacEwan University Student eJournal*.
 
+Games and Media Publications
+======
+[**Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction**](https://niche-canada.org/2025/10/31/controlling-catastrophe-indoor-gameplay-to-support-sensory-dysfunction/)
+A video essay about the unanticipated ways Frostpunk serves as a strategy for neurodivergent players with sensory dysfunctions — particularly those who struggle with the heat of summertime.
+* Editorially reviewed publication by NiCHE. 
+[**Memory Lane**](https://adelinekpiercy.itch.io/memory-lane )
+A short single-player 16-bit narrative game about returning to a place that was once home but is not anymore. 
+[**A Feast for Cats**](https://adelinekpiercy.itch.io/a-feast-for-cats)
+A fast-paced tabletop roleplaying game for 3+ players. It’s perfect for cat lovers, chaos gremlins, and players who believe teamwork is optional when food is on the line. 
 
 Other Publications
 ======
