@@ -17,7 +17,7 @@ When not on campus, I am likely scheming the demise of my loyal D&D players, ove
 
 📅 Upcoming Publications & Events
 =========
-* (Oct 31, 2025: "Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction" [Video Essay], NiCHE.)[https://niche-canada.org/2025/10/31/controlling-catastrophe-indoor-gameplay-to-support-sensory-dysfunction/]
+* [Oct 31, 2025: "Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction" [Video Essay], NiCHE.](https://niche-canada.org/2025/10/31/controlling-catastrophe-indoor-gameplay-to-support-sensory-dysfunction/)
 
 -------
 
