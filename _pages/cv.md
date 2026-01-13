@@ -84,7 +84,7 @@ Fellowships and Awards
 
 2025
 ------
-Nominee, Open Competition, University of Alberta
+Winner, Open Competition, Myer Horowitz Graduate Students' Association Scholarship, University of Alberta ($1,400)
 
 Nominee, BMO Financial Group Graduate Scholarship
 
