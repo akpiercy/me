@@ -121,7 +121,7 @@ Winner, Alexander Rutherford Scholarship ($1,000)
 Courses Taught
 ======
 **MacEwan University**
-* Stylistic and Structural Editing (Upcoming)
+* Stylistic and Structural Editing
   * Students examine the objectives and techniques of stylistic, structural, and developmental editing by working through large, complex projects.
 
 * Advanced Business Writing [Online]
