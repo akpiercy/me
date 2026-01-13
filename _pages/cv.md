@@ -170,6 +170,8 @@ Service to University
 
 Service to the Field
 ======
+* Organizing Committee, Digital Humanities Student Association Conference, 2026
+
 * Reviewer, Canadian Game Studies Association Conference, 2025
 
 * Organizing Committee, Digital Humanities Student Association Conference, 2025
