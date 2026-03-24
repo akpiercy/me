@@ -43,10 +43,9 @@ Teaching Appointments
   
 Peer-Reviewed Publications
 ======
-* Piercy, Adeline K. (Accepted for forthcoming publication). “Mending the Appropriation of Yoga Through Origin Acknowledgements.” *MUSe: The MacEwan University Student eJournal*.
-
 * Piercy, Adeline K. & Berge, PS. (Forthcoming 2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland. (Paper conditionally accepted for forthcoming publication.)
 
+* Piercy, Adeline K. (Accepted for forthcoming publication). “Mending the Appropriation of Yoga Through Origin Acknowledgements.” *MUSe: The MacEwan University Student eJournal*.
 
 Games and Media Publications
 ======
