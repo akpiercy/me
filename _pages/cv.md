@@ -84,12 +84,12 @@ Essays and Popular Press Articles
 Fellowships and Awards
 ======
 
-2026
-------
+**2026**
+
 Winner, Interactive Fiction Technology Foundation Microgrant ($1,000)
 
-2025
-------
+**2025**
+
 Winner, Myer Horowitz Graduate Students' Association Scholarship ($1,400)
 
 Nominee, Open Competition, University of Alberta
@@ -102,26 +102,26 @@ Winner, GPS Graduate Student Elevation Award ($1,450)
 
 Winner, Women in Technical and Applied Arts Scholarship ($2,500)
 
-2024
-------
+**2024**
+
 Winner, Alberta Graduate Excellence Scholarship (AGES) ($12,000)
 
-2023
-------
+**2023**
+
 Winner, Digital Humanities Recruitment Scholarship ($5,000)
 
 Nominee, Graduate Entrance Scholarship
 
-2021
-------
+**2021**
+
 Recipient, Dean’s Medal, MacEwan
 
-2020
-------
+**2020**
+
 Finalist, Emerge Media Video Awards
 
-2012
-------
+**2012**
+
 Winner, Alexander Rutherford Scholarship ($1,000)
   
 Courses Taught
