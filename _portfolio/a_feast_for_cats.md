@@ -1,5 +1,5 @@
 ---
-title: "A Feast for Cats"
+title: "A Feast for Cats (Version 2 Coming Soon!)"
 excerpt: "The premise of this game is simple: you are a Cat and you are starving. <br/><img src='/images/A Feast for Cats Cover Image.png' width='600'>"
 collection: portfolio
 ---
