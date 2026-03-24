@@ -2,7 +2,7 @@
 title: "Guest Lecture: Patriarchy in Pastels: Cozy Game Culture & Feminist Gameplay"
 collection: talks
 type: "Talk"
-permalink: /talks/Guest Lecture: Patriarchy in Pastels
+permalink: /talks/Guest Lecture Patriarchy in Pastels
 venue: "Understanding Videogames, University of Alberta"
 date: 2025-10-27
 location: "Edmonton, AB, Canada"
