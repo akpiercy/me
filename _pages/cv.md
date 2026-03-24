@@ -165,7 +165,7 @@ Invited Talks
 
 * Invited Panelist, “Bookwyrm SpecFest,” MacEwan University. 2026.
 
-* Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2025.
+* [Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2025.](/files/2025-10-29 Guest Speaker for NFLC - Adeline Piercy.pdf)
 
 * [Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2024.](/files/22024-10-25 Guest Speaker for NFLC - Adeline Piercy.pdf)
 
