@@ -45,6 +45,9 @@ Peer-Reviewed Publications
 ======
 * Piercy, Adeline K. (Accepted for forthcoming publication). “Mending the Appropriation of Yoga Through Origin Acknowledgements.” *MUSe: The MacEwan University Student eJournal*.
 
+* Piercy, Adeline K. & Berge, PS. (Forthcoming 2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures. Presenting in Maynooth, Ireland. (Paper conditionally accepted for forthcoming publication.)
+
+
 Games and Media Publications
 ======
 [**Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction**](https://niche-canada.org/2025/10/31/controlling-catastrophe-indoor-gameplay-to-support-sensory-dysfunction/)
@@ -81,6 +84,10 @@ Essays and Popular Press Articles
   
 Fellowships and Awards
 ======
+
+2026
+------
+Winner, Interactive Fiction Technology Foundation Microgrant ($1,000)
 
 2025
 ------
@@ -140,22 +147,34 @@ Courses Taught
 
 Presentations
 ======
-* Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2025.
+**Peer-Reviewed Conference Presentations**
+***Additional presentations may be found as published proceedings, listed above.***
+* “Patriarchy in Pastels and the Girl Gamer Cave,” Canadian Game Studies Association Conference, 2026. (Forthcoming). 
+
+* “Groupies & Stans: Examining Community Sentiment to Feminised Fan Practices in League of Legends Esports,” Esports Network Research Conference, 2025. 
 
 * “Merging Databases into Interactive Storytelling,” Digital Humanities Student Association Conference, “Dissolving Boundaries,” 2025
 
 * “Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic” with Dr. PS Berge, Canadian Game Studies Association Conference, 2025
 
+**Invited Talks**
+* Invited Panelist, “Bookwyrm SpecFest,” MacEwan University. 2026.
+
+* Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2025.
+
 * [Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2024.](/files/22024-10-25 Guest Speaker for NFLC - Adeline Piercy.pdf)
 
 * [Invited Panelist, “Peer Observation of Teaching Training Part 1,” Centre for Teaching and Learning, MacEwan University. 2024.](/files/2024-10-29 Guest Speaker for Peer Observation of Teaching Training - Adeline Piercy.pdf)
+
+**Guest Lectures**
+* “Patriarchy in Pastels: Cozy Game Culture and Feminist Gameplay.” October 2025. Course on Understanding Videogames. University of Alberta.
 
 
 Service to University
 ======
 * Co-President, Digital Humanities Student Association, University of Alberta, 2025 – Present
 
-* Individual Student Career Mentorship, MacEwan University, 2024 – Present
+* Individual Student Career Mentorship, MacEwan University, 2024 – 2025
 
 * Organizer and Panelist, “Queering the Future: Entering the Workforce,” Pride Week with MacEwan University’s Center for Sexual and Gender Diversity, 2024
 
@@ -170,6 +189,8 @@ Service to University
 
 Service to the Field
 ======
+* Reviewer, Canadian Game Studies Association Conference, 2026
+* 
 * Organizing Committee, Digital Humanities Student Association Conference, 2026
 
 * Reviewer, Canadian Game Studies Association Conference, 2025
@@ -179,6 +200,12 @@ Service to the Field
 
 Relevant Professional Experience
 ======
+**Independent Contractor**
+* Editor & Manuscript Consultant, 2020-Present
+  * Provided developmental and line editing for two full-length novel manuscripts, focusing on narrative pacing, character arc consistency, world-building logic, and thematic coherence.
+  * Consult with authors on structural revision and style.
+
+
 **Dig Marketing**
 * Digital Content & Communications Manager, 2021-2023
   * Managed a small team of writers, including interviewing, hiring, and onboarding employees
@@ -203,6 +230,9 @@ Relevant Professional Experience
   * Designed catalogues for Read Alberta Books promotion
   * Planned Alberta Culture Days events with rural libraries 
 
+Media & Press
+======
+* Media and Technology Studies, University of Alberta. (November 2025). Featured in spotlight article, [“Digital Humanities student Adeline Piercy publishes video essay on NiCHE website.”](https://www.ualberta.ca/en/media-technology-studies/about-us/news/2025/october/digital-humanities-student-adeline-piercy-publishes-video-essay-on-niche-website.html)
 
 Technical Skills
 ======
