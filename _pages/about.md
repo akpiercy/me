@@ -17,7 +17,9 @@ When not on campus, I am likely scheming the demise of my loyal D&D players, ove
 
 📅 Upcoming Publications & Events
 =========
-* [Oct 31, 2025: "Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction" [Video Essay], NiCHE.](https://niche-canada.org/2025/10/31/controlling-catastrophe-indoor-gameplay-to-support-sensory-dysfunction/)
+* Piercy, Adeline K. & Berge, PS. (Forthcoming). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland, June 2026. (Paper conditionally accepted for forthcoming publication.)
+
+* “Patriarchy in Pastels and the Girl Gamer Cave,” *Canadian Game Studies Association Conference*, 2026. (Forthcoming in Montreal, June 2026).
 
 -------
 
