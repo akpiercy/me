@@ -148,7 +148,9 @@ Courses Taught
 Presentations
 ======
 **Peer-Reviewed Conference Presentations**
+
 ***Additional presentations may be found as published proceedings, listed above.***
+
 * “Patriarchy in Pastels and the Girl Gamer Cave,” Canadian Game Studies Association Conference, 2026. (Forthcoming). 
 
 * “Groupies & Stans: Examining Community Sentiment to Feminised Fan Practices in League of Legends Esports,” Esports Network Research Conference, 2025. 
