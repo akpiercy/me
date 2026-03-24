@@ -158,7 +158,7 @@ Peer-Reviewed Conference Presentations
 
 * “Merging Databases into Interactive Storytelling,” Digital Humanities Student Association Conference, “Dissolving Boundaries,” 2025
 
-* “Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic” with Dr. PS Berge, Canadian Game Studies Association Conference, 2025
+* [“Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic”](https://adelinekpiercy.com/talks/Min-MaxingRelaxing) with Dr. PS Berge, Canadian Game Studies Association Conference, 2025
 
 Invited Talks
 -------
@@ -174,7 +174,7 @@ Invited Talks
 Guest Lectures
 -------
 
-* “Patriarchy in Pastels: Cozy Game Culture and Feminist Gameplay.” October 2025. Course on Understanding Videogames. University of Alberta.
+* [“Patriarchy in Pastels: Cozy Game Culture and Feminist Gameplay.”](https://adelinekpiercy.com/talks/Guest%20Lecture%20Patriarchy%20in%20Pastels) October 2025. Course on Understanding Videogames. University of Alberta.
 
 
 Service to University
