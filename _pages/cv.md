@@ -152,13 +152,13 @@ Peer-Reviewed Conference Presentations
 
 ***Additional presentations may be found as published proceedings, listed above.***
 
-* “Patriarchy in Pastels and the Girl Gamer Cave,” Canadian Game Studies Association Conference, 2026. (Forthcoming). 
+* “Patriarchy in Pastels and the Girl Gamer Cave,” Canadian Game Studies Association Conference, 2026. Montreal, QC. (Forthcoming). 
 
-* “Groupies & Stans: Examining Community Sentiment to Feminised Fan Practices in League of Legends Esports,” Esports Network Research Conference, 2025. 
+* “Groupies & Stans: Examining Community Sentiment to Feminised Fan Practices in League of Legends Esports,” Esports Network Research Conference, 2025. Online.
 
-* “Merging Databases into Interactive Storytelling,” Digital Humanities Student Association Conference, “Dissolving Boundaries,” 2025
+* “Merging Databases into Interactive Storytelling,” Digital Humanities Student Association Conference, “Dissolving Boundaries,” 2025. Edmonton, AB. 
 
-* [“Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic”](https://adelinekpiercy.com/talks/Min-MaxingRelaxing) with Dr. PS Berge, Canadian Game Studies Association Conference, 2025
+* [“Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic”](https://adelinekpiercy.com/talks/Min-MaxingRelaxing) with Dr. PS Berge, Canadian Game Studies Association Conference, 2025. Montreal, QC.
 
 Invited Talks
 -------
