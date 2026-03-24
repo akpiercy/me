@@ -45,7 +45,7 @@ Peer-Reviewed Publications
 ======
 * Piercy, Adeline K. (Accepted for forthcoming publication). “Mending the Appropriation of Yoga Through Origin Acknowledgements.” *MUSe: The MacEwan University Student eJournal*.
 
-* Piercy, Adeline K. & Berge, PS. (Forthcoming 2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures. Presenting in Maynooth, Ireland. (Paper conditionally accepted for forthcoming publication.)
+* Piercy, Adeline K. & Berge, PS. (Forthcoming 2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland. (Paper conditionally accepted for forthcoming publication.)
 
 
 Games and Media Publications
@@ -192,7 +192,7 @@ Service to University
 Service to the Field
 ======
 * Reviewer, Canadian Game Studies Association Conference, 2026
-* 
+
 * Organizing Committee, Digital Humanities Student Association Conference, 2026
 
 * Reviewer, Canadian Game Studies Association Conference, 2025
