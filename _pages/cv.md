@@ -146,7 +146,9 @@ Courses Taught
 
 Presentations
 ======
-**Peer-Reviewed Conference Presentations**
+
+Peer-Reviewed Conference Presentations
+-------
 
 ***Additional presentations may be found as published proceedings, listed above.***
 
@@ -158,7 +160,9 @@ Presentations
 
 * “Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic” with Dr. PS Berge, Canadian Game Studies Association Conference, 2025
 
-**Invited Talks**
+Invited Talks
+-------
+
 * Invited Panelist, “Bookwyrm SpecFest,” MacEwan University. 2026.
 
 * Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2025.
@@ -167,7 +171,9 @@ Presentations
 
 * [Invited Panelist, “Peer Observation of Teaching Training Part 1,” Centre for Teaching and Learning, MacEwan University. 2024.](/files/2024-10-29 Guest Speaker for Peer Observation of Teaching Training - Adeline Piercy.pdf)
 
-**Guest Lectures**
+Guest Lectures
+-------
+
 * “Patriarchy in Pastels: Cozy Game Culture and Feminist Gameplay.” October 2025. Course on Understanding Videogames. University of Alberta.
 
 
@@ -206,7 +212,6 @@ Relevant Professional Experience
   * Provided developmental and line editing for two full-length novel manuscripts, focusing on narrative pacing, character arc consistency, world-building logic, and thematic coherence.
   * Consult with authors on structural revision and style.
 
-
 **Dig Marketing**
 * Digital Content & Communications Manager, 2021-2023
   * Managed a small team of writers, including interviewing, hiring, and onboarding employees
@@ -240,7 +245,6 @@ Technical Skills
 **Software Proficiencies:** Microsoft Office, Google Suite, Notion, Zotero, WordPress, Adobe Suite (Premier, Audition, Spark), Asana, Monday.com, Ren’Py, GitHub
 
 **Languages:** Python, MarkDown, MySQL
-
 
 Teaching Recommendations
 ======
