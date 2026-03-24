@@ -114,7 +114,7 @@ Nominee, Graduate Entrance Scholarship
 
 **2021**
 
-Recipient, Dean’s Medal, MacEwan
+Recipient, Dean’s Medal, MacEwan University
 
 **2020**
 
