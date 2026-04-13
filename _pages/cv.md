@@ -9,37 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Writer, communications instructor, and master’s student in Digital Humanities at the University of Alberta, researching feminist gameplay, queer play, and digital culture.
+Award-winning writer, communications instructor, and master’s student in Digital Humanities at the University of Alberta, researching feminist gameplay, queer play, and digital culture.
 
 Education
 ======
 **MA in Digital Humanities,** University of Alberta, 2027 (Expected)
 * Thesis: “Patriarchy in Pastels: Cozy Game Culture & Feminist Gameplay (In progress).”
 * Advisor: Dr. PS Berge
+* Degree Expected: Winter 2027
 
 **BCS in Professional Communications,** MacEwan University, 2021
+* Dean's Medal Recipient
 
 **BSc in Biological Sciences,** University of Alberta, 2016
-
-
-Teaching Appointments
-======
-**MacEwan University**
-* Sessional Instructor, 2023 - Present
-* Teaching undergraduate courses in the Professional Communications department
-
-**University of Alberta**
-* Research Assistant, CRYPT Lab, May 2025 - Present
-  * Editing videos for Playful Horizons Speaker Series and CRYPT Lab development.
-
-* Research Assistant, Microcredential in Game Design, Jan 2024 – Mar 2025
-  * Developing, implementing, and editing lessons for an online game design course.
-
-* Teaching Assistant, Media Theory, Winter 2025
-  * A theory-in-practice course, assisting with in-class workshops and student correspondence.
- 
-* Research Assistant, Bridging Divides, Jan 2024 – Apr 2024
-  * Heuristics evaluations of government immigration websites.
+* Minor in Classical Studies
   
 Peer-Reviewed Publications
 ======
@@ -81,10 +64,36 @@ Essays and Popular Press Articles
 
 * Piercy, Adeline K. (2016). “Internal Censorship in Writing.” WestWord Magazine.
   
+Academic Appointments
+======
+**MacEwan University**
+* Sessional Instructor, 2023 - Present
+* Teaching undergraduate courses in the Professional Communications department
+
+**University of Alberta**
+* Research Assistant, CRYPT Lab, May 2025 - Present
+  * Lab Manager and mentor to new students.
+  * Coordinating workshops, events, and logistics.
+  * Conducting interviews with research participants.
+  * Editing videos for Playful Horizons Speaker Series.
+  * Assisting with CRYPT Lab development.
+
+* Research Assistant, Microcredential in Game Design, Jan 2024 – Mar 2025
+  * Developed, implemented, and edited lessons for an online game design course.
+
+* Teaching Assistant, Media Theory, Winter 2025
+  * A theory-in-practice course, assisted with in-class workshops and student correspondence.
+ 
+* Research Assistant, Bridging Divides, Jan 2024 – Apr 2024
+  * Heuristics evaluations of government immigration websites.
+
 Fellowships and Awards
 ======
 
 **2026**
+Winner, Graduate Student Travel Award ($2,000)
+
+Winner, Media and Technology Studies Unit Travel Award ($500)
 
 Winner, Interactive Fiction Technology Foundation Microgrant ($1,000)
 
@@ -123,26 +132,7 @@ Finalist, Emerge Media Video Awards
 **2012**
 
 Winner, Alexander Rutherford Scholarship ($1,000)
-  
-Courses Taught
-======
-**MacEwan University**
-* Stylistic and Structural Editing
-  * Students examine the objectives and techniques of stylistic, structural, and developmental editing by working through large, complex projects.
 
-* Advanced Business Writing [Online]
-  * Advanced strategic writing for professional contexts including proposals, reports, and professional correspondence.
-
-* Professional Communications
-  * Practical professional communications practices including audience and medium analysis, conflict resolution, and strategic communication.
-
-* Grammar & Composition Foundations
-  * A foundational course on grammar and writing. Students discuss the effects of English in a colonized country and intersectional effects as a result, including feminist critiques of written and spoken language.  
-* Interpersonal Communications
-  * Theory and practical application of interpersonal communication techniques within online, personal, group, and professional contexts. 
-
-* Writing Fundamentals
-  * Foundational writing and grammar for the public relations program. Students discuss the impacts of English supremacy and collaborate on inclusive methods of communication. 
 
 Presentations
 ======
@@ -163,6 +153,8 @@ Peer-Reviewed Conference Presentations
 Invited Talks
 -------
 
+* Invited Presenter, “Learn @ Your Library: Gender, Power, and Videogame Culture,” Strathcona County Library. 2026.
+
 * Invited Panelist, “Bookwyrm SpecFest,” MacEwan University. 2026.
 
 * [Invited Panelist, “New Faculty Learning Community,” Centre for Teaching and Learning, MacEwan University. 2025.](/files/2025-10-29 Guest Speaker for NFLC - Adeline Piercy.pdf)
@@ -175,6 +167,28 @@ Guest Lectures
 -------
 
 * [“Patriarchy in Pastels: Cozy Game Culture and Feminist Gameplay.”](https://adelinekpiercy.com/talks/Guest%20Lecture%20Patriarchy%20in%20Pastels) October 2025. Course on Understanding Videogames. University of Alberta.
+
+
+
+Courses Taught
+======
+**MacEwan University**
+* Stylistic and Structural Editing
+  * Students examine the objectives and techniques of stylistic, structural, and developmental editing by working through large, complex projects.
+
+* Advanced Business Writing [Online]
+  * Advanced strategic writing for professional contexts including proposals, reports, and professional correspondence.
+
+* Professional Communications
+  * Practical professional communications practices including audience and medium analysis, conflict resolution, and strategic communication.
+
+* Grammar & Composition Foundations
+  * A foundational course on grammar and writing. Students discuss the effects of English in a colonized country and intersectional effects as a result, including feminist critiques of written and spoken language.  
+* Interpersonal Communications
+  * Theory and practical application of interpersonal communication techniques within online, personal, group, and professional contexts. 
+
+* Writing Fundamentals
+  * Foundational writing and grammar for the public relations program. Students discuss the impacts of English supremacy and collaborate on inclusive methods of communication. 
 
 
 Service to University
@@ -238,6 +252,8 @@ Relevant Professional Experience
 
 Media & Press
 ======
+* Media and Technology Studies, University of Alberta. (April 2026). Featured in spotlight article, [“Congratulations to IFTF microgrant recipients Abhik Hasnain and Adeline K. Piercy.”](https://www.ualberta.ca/en/media-technology-studies/about-us/news/2026/april/congratulations-to-iftf-microgrant-recipients-abhik-hasnain-and-adeline-k-piercy.html)
+
 * Media and Technology Studies, University of Alberta. (November 2025). Featured in spotlight article, [“Digital Humanities student Adeline Piercy publishes video essay on NiCHE website.”](https://www.ualberta.ca/en/media-technology-studies/about-us/news/2025/october/digital-humanities-student-adeline-piercy-publishes-video-essay-on-niche-website.html)
 
 Technical Skills
@@ -252,7 +268,7 @@ Teaching Recommendations
 * Class Taught: BCSC 216, Professional Communications on March 23rd, 2023
 * Topic: Evaluating successful communication
 
-Dr. PB Berge
+[Dr. PB Berge](/files/Piercy-Teaching-Rec-F25.pdf)
 * Class Taught: MST 350, Understanding Videogames on October 28th, 2025 [Guest Lecture]
 * Topic: Cozy game culture and feminist gameplay
 
