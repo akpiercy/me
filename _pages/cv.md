@@ -11,6 +11,8 @@ redirect_from:
 
 Award-winning writer, communications instructor, and master’s student in Digital Humanities at the University of Alberta, researching feminist gameplay, queer play, and digital culture.
 
+---
+
 Education
 ======
 **MA in Digital Humanities,** University of Alberta, 2027 (Expected)
@@ -65,7 +67,9 @@ Essays and Popular Press Articles
 * Piercy, Adeline K. (2021). “The More, the Merrier.” She/They/Us Magazine.
 
 * Piercy, Adeline K. (2016). “Internal Censorship in Writing.” WestWord Magazine.
-  
+
+---
+
 Academic Appointments
 ======
 **MacEwan University**
@@ -88,6 +92,8 @@ Academic Appointments
  
 * Research Assistant, Bridging Divides, Jan 2024 – Apr 2024
   * Heuristics evaluations of government immigration websites.
+
+---
 
 Fellowships and Awards
 ======
@@ -135,6 +141,7 @@ Finalist, Emerge Media Video Awards
 
 Winner, Alexander Rutherford Scholarship ($1,000)
 
+---
 
 Presentations
 ======
@@ -170,7 +177,7 @@ Guest Lectures
 
 * [“Patriarchy in Pastels: Cozy Game Culture and Feminist Gameplay.”](https://adelinekpiercy.com/talks/Guest%20Lecture%20Patriarchy%20in%20Pastels) October 2025. Course on Understanding Videogames. University of Alberta.
 
-
+---
 
 Courses Taught
 ======
@@ -192,6 +199,7 @@ Courses Taught
 * Writing Fundamentals
   * Foundational writing and grammar for the public relations program. Students discuss the impacts of English supremacy and collaborate on inclusive methods of communication. 
 
+---
 
 Service to University
 ======
@@ -209,6 +217,7 @@ Service to University
 
 * Team Facilitator, University of Alberta Orientation Program, 2014-2015
 
+---
 
 Service to the Field
 ======
@@ -220,6 +229,7 @@ Service to the Field
 
 * Organizing Committee, Digital Humanities Student Association Conference, 2025
 
+---
 
 Relevant Professional Experience
 ======
@@ -252,17 +262,23 @@ Relevant Professional Experience
   * Designed catalogues for Read Alberta Books promotion
   * Planned Alberta Culture Days events with rural libraries 
 
+---
+
 Media & Press
 ======
 * Media and Technology Studies, University of Alberta. (April 2026). Featured in spotlight article, [“Congratulations to IFTF microgrant recipients Abhik Hasnain and Adeline K. Piercy.”](https://www.ualberta.ca/en/media-technology-studies/about-us/news/2026/april/congratulations-to-iftf-microgrant-recipients-abhik-hasnain-and-adeline-k-piercy.html)
 
 * Media and Technology Studies, University of Alberta. (November 2025). Featured in spotlight article, [“Digital Humanities student Adeline Piercy publishes video essay on NiCHE website.”](https://www.ualberta.ca/en/media-technology-studies/about-us/news/2025/october/digital-humanities-student-adeline-piercy-publishes-video-essay-on-niche-website.html)
 
+---
+
 Technical Skills
 ======
 **Software Proficiencies:** Microsoft Office, Google Suite, Notion, Zotero, WordPress, Adobe Suite (Premier, Audition, Spark), Asana, Monday.com, Ren’Py, GitHub
 
 **Languages:** Python, MarkDown, MySQL
+
+---
 
 Teaching Recommendations
 ======
