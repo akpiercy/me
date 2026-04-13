@@ -52,9 +52,13 @@ A fast-paced tabletop roleplaying game for 3+ players. It’s perfect for cat lo
 Other Publications
 ======
 
+Book Reviews
+-------
+* Piercy, Adeline K. (Forthcoming). *Adeline K. Piercy on Noah Wardrip-Fruin "Animal Crossing: New Horizons Can a Game Take Care of Us?”* H-Net.
+
 Creative Work
 -------
-* Piercy, Adeline K. (2021). Exaltation [Poetry collection]. Armistice Press.
+* Piercy, Adeline K. (2021). *Exaltation* [Poetry collection]. Armistice Press.
 
 * Piercy, Adeline K. (2021). “Heresy” [Short story]. The Bolo Tie Collective Anthology V.
 
