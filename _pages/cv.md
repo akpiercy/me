@@ -54,7 +54,7 @@ Other Publications
 
 Book Reviews
 -------
-* Piercy, Adeline K. (Forthcoming). *Adeline K. Piercy on Noah Wardrip-Fruin "Animal Crossing: New Horizons Can a Game Take Care of Us?”* H-Net.
+* [Adeline K. Piercy. Review of Wardrip-Fruin, Noah, *Animal Crossing: New Horizons: Can a Game Take Care of Us?*. H-Environment, H-Net Reviews. April, 2026.](https://www.h-net.org/reviews/showpdf.php?id=62475)
 
 Creative Work
 -------
