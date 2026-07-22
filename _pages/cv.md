@@ -17,7 +17,7 @@ Education
 ======
 **MA in Digital Humanities,** University of Alberta, 2027 (Expected)
 * Thesis: “Patriarchy in Pastels: Cozy Game Culture & Feminist Gameplay (In progress).”
-* Advisor: Dr. PS Berge
+* Advisor: Dr. Sean Gouglas
 * Degree Expected: Winter 2027
 
 **BCS in Professional Communications,** MacEwan University, 2021
@@ -30,7 +30,7 @@ Education
 
 Peer-Reviewed Publications
 ======
-* Piercy, Adeline K. & Berge, PS. (Forthcoming 2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland. (Paper conditionally accepted for forthcoming publication.)
+* Piercy, Adeline K. & Berge, PS. (2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland.
 
 * Piercy, Adeline K. (Accepted for forthcoming publication). “Mending the Appropriation of Yoga Through Origin Acknowledgements.” *MUSe: The MacEwan University Student eJournal*.
 
@@ -155,7 +155,9 @@ Peer-Reviewed Conference Presentations
 
 ***Additional presentations may be found as published proceedings, listed above.***
 
-* “Patriarchy in Pastels and the Girl Gamer Cave,” Canadian Game Studies Association Conference, 2026. Montreal, QC. (Forthcoming). 
+* “Cohabited Texts: Designing Cooperative Interactive Fiction as Auto-Ethnographic Method,” Electronic Literature Organization, 2026. Online.
+
+* “Patriarchy in Pastels and the Girl Gamer Cave,” Canadian Game Studies Association Conference, 2026. Montreal, QC. 
 
 * “Groupies & Stans: Examining Community Sentiment to Feminised Fan Practices in League of Legends Esports,” Esports Network Research Conference, 2025. Online.
 
@@ -207,13 +209,13 @@ Courses Taught
 
 Service to University
 ======
-* Co-President, Digital Humanities Student Association, University of Alberta, 2025 – Present
+* Member at Large, Digital Humanities Student Association, University of Alberta, 2024 – Present
+
+* Co-President, Digital Humanities Student Association, University of Alberta, 2025 – 2626
 
 * Individual Student Career Mentorship, MacEwan University, 2024 – 2025
 
 * Organizer and Panelist, “Queering the Future: Entering the Workforce,” Pride Week with MacEwan University’s Center for Sexual and Gender Diversity, 2024
-
-* Member at Large, Digital Humanities Student Association, University of Alberta, 2024 – 2025
 
 * Volunteer, University of Alberta Open House, 2024
 
