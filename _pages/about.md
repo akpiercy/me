@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am a Digital Humanities graduate student at the University of Alberta, Co-President of the Digital Humanities Student Association, and a member of the CRYPT Lab led by Dr. PB Berge. I also teach Professional Communications at MacEwan University.
+Hello! I am a Digital Humanities graduate student at the University of Alberta and a member of the CRYPT Lab led by Dr. PB Berge and the VITA Lab led by Dr. Sean Gouglas. I also teach Professional Communications at MacEwan University.
 
 As a storyteller, I create narratives across poetry, fiction, interactive stories, and games. My work focuses on queer and feminist issues, and explores trauma, neurodivergence, and self-exploration. My current research challenges patterns of gendered exclusion in videogame culture, from 'girl game' movements to game design interventions. 
 
@@ -17,9 +17,9 @@ When not on campus, I am likely scheming the demise of my loyal D&D players, ove
 
 📅 Upcoming Publications & Events
 =========
-* Piercy, Adeline K. & Berge, PS. (Forthcoming). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland, June 2026. (Paper conditionally accepted for forthcoming publication.)
+* Piercy, Adeline K. & Berge, PB. (2026). “Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic.” In *Proceedings of the 17th Annual DiGRA Conference: Intersectional Pleasures*. Presenting in Maynooth, Ireland, June 2026.
 
-* “Patriarchy in Pastels and the Girl Gamer Cave,” *Canadian Game Studies Association Conference*, 2026. (Forthcoming in Montreal, June 2026).
+* “Patriarchy in Pastels and the Girl Gamer Cave,” *Canadian Game Studies Association Conference*, 2026. (Montreal, June 2026).
 
 -------
 
