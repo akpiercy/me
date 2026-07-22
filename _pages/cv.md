@@ -103,6 +103,7 @@ Fellowships and Awards
 ======
 
 **2026**
+
 Winner, Graduate Student Travel Award ($2,000)
 
 Winner, Media and Technology Studies Unit Travel Award ($500)
